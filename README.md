@@ -8,14 +8,13 @@
 
 ### 1. ✅ 지능화 캡스톤 프로젝트 (Capstone Design in AI)
 
-- **주제:** 사용자 리뷰 기반 부정표현 및 요구사항 동시 추출 모델 개발
-- **기술 스택:** BERT, 감성 분석, 다중 태스크 러닝(MTL), KoBERT, Python
 - **산출물:** 모델 구현 코드, 성능 분석 보고서, 발표 PPT, 논문 양식 보고서
 
 ---
 
 ### 2. 🧠 딥러닝 심화 (Advanced Deep Learning)
 
+- **주제:** 사용자 리뷰 기반 부정표현 및 요구사항 동시 추출 모델 개발
 - **언어 모델 실습:** BERT 기반 분류 모델 구현 및 fine-tuning
 - **비전 모델 실습:** ResNet18을 활용한 이미지 분류 및 정확도 비교
 - **학습 도구:** PyTorch, scikit-learn, matplotlib, confusion matrix 시각화
